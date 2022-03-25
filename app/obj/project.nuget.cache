@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Jx6BIotlOVnhNfeDWS2vK7/JTOOvBNftS/Au7OqRD/E0FQL7W7uDK4ju26Ge2LMrVfO4xZg6KdbwTqJl0MyAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mawardi\\OneDrive\\Documents\\KDN\\openshift-sample-net\\s2i-dotnetcore-ex-dotnet-6.0\\app\\app.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}
